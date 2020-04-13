@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Prato porcelana",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Copo vidro",
+            "price": 4.21
+        },
+        {
+            "id": 3,
+            "name": "Microondas",
+            "price": 400.89
+        }
+    ]
+}
